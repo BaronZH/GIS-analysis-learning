@@ -31,11 +31,15 @@ QGIS：开源GIS软件，掌握基本制图和空间分析功能。
 Google Earth Engine（GEE）：用于遥感数据分析和大规模地理计算。
 ## 编程
 3. 学习编程与数据分析
+
+python入门教程文档
+https://docs.python.org/3.13/tutorial/index.html
+
 Python（必学）：使用 geopandas、shapely、GDAL 处理GIS数据。
 R（可选）：使用 sf 和 raster 进行地理数据分析。
 SQL：查询和操作空间数据库（如PostGIS）。
 JavaScript（用于GEE）：编写地理空间数据处理脚本。
-4. 掌握空间分析与数据可视化
+5. 掌握空间分析与数据可视化
 空间分析：缓冲区分析、叠加分析、空间插值、热点分析等。
 数据可视化：使用 matplotlib、folium、kepler.gl、Mapbox 等工具制作交互式地图。
 ## 行业应用的综合能力
